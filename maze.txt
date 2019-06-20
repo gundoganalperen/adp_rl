@@ -1,0 +1,13 @@
+# This is the definition of a maze
+# Lines starting with # must be ignored
+# 1: Wall 0: Free
+# S: Start G: Goal T: Trap
+#
+1 1 1 1 1 1 1 1 1 1
+1 0 0 0 0 0 1 0 0 1
+1 0 1 1 1 0 0 0 0 1
+1 0 1 T 1 0 1 0 S 1
+1 0 0 0 0 0 1 0 0 1
+1 0 1 1 1 1 1 1 1 1
+1 0 0 0 0 0 0 0 G 1
+1 1 1 1 1 1 1 1 1 1
